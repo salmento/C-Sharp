@@ -1,0 +1,16 @@
+/home/salmento/dev/C-/Home work 3/bin/Debug/net5.0/Home work 3
+/home/salmento/dev/C-/Home work 3/bin/Debug/net5.0/Home work 3.deps.json
+/home/salmento/dev/C-/Home work 3/bin/Debug/net5.0/Home work 3.runtimeconfig.json
+/home/salmento/dev/C-/Home work 3/bin/Debug/net5.0/Home work 3.runtimeconfig.dev.json
+/home/salmento/dev/C-/Home work 3/bin/Debug/net5.0/Home work 3.dll
+/home/salmento/dev/C-/Home work 3/bin/Debug/net5.0/ref/Home work 3.dll
+/home/salmento/dev/C-/Home work 3/bin/Debug/net5.0/Home work 3.pdb
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/Home work 3.csprojAssemblyReference.cache
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/Home work 3.GeneratedMSBuildEditorConfig.editorconfig
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/Home work 3.AssemblyInfoInputs.cache
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/Home work 3.AssemblyInfo.cs
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/Home work 3.csproj.CoreCompileInputs.cache
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/Home work 3.dll
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/ref/Home work 3.dll
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/Home work 3.pdb
+/home/salmento/dev/C-/Home work 3/obj/Debug/net5.0/Home work 3.genruntimeconfig.cache
