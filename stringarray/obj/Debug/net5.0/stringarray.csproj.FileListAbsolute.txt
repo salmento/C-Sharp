@@ -1,0 +1,16 @@
+/home/salmento/dev/C-/stringarray/bin/Debug/net5.0/stringarray
+/home/salmento/dev/C-/stringarray/bin/Debug/net5.0/stringarray.deps.json
+/home/salmento/dev/C-/stringarray/bin/Debug/net5.0/stringarray.runtimeconfig.json
+/home/salmento/dev/C-/stringarray/bin/Debug/net5.0/stringarray.runtimeconfig.dev.json
+/home/salmento/dev/C-/stringarray/bin/Debug/net5.0/stringarray.dll
+/home/salmento/dev/C-/stringarray/bin/Debug/net5.0/ref/stringarray.dll
+/home/salmento/dev/C-/stringarray/bin/Debug/net5.0/stringarray.pdb
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/stringarray.csprojAssemblyReference.cache
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/stringarray.GeneratedMSBuildEditorConfig.editorconfig
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/stringarray.AssemblyInfoInputs.cache
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/stringarray.AssemblyInfo.cs
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/stringarray.csproj.CoreCompileInputs.cache
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/stringarray.dll
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/ref/stringarray.dll
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/stringarray.pdb
+/home/salmento/dev/C-/stringarray/obj/Debug/net5.0/stringarray.genruntimeconfig.cache
