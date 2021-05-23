@@ -1,0 +1,16 @@
+/home/salmento/dev/C-/controlflow/bin/Debug/net5.0/controlflow
+/home/salmento/dev/C-/controlflow/bin/Debug/net5.0/controlflow.deps.json
+/home/salmento/dev/C-/controlflow/bin/Debug/net5.0/controlflow.runtimeconfig.json
+/home/salmento/dev/C-/controlflow/bin/Debug/net5.0/controlflow.runtimeconfig.dev.json
+/home/salmento/dev/C-/controlflow/bin/Debug/net5.0/controlflow.dll
+/home/salmento/dev/C-/controlflow/bin/Debug/net5.0/ref/controlflow.dll
+/home/salmento/dev/C-/controlflow/bin/Debug/net5.0/controlflow.pdb
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/controlflow.csprojAssemblyReference.cache
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/controlflow.GeneratedMSBuildEditorConfig.editorconfig
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/controlflow.AssemblyInfoInputs.cache
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/controlflow.AssemblyInfo.cs
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/controlflow.csproj.CoreCompileInputs.cache
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/controlflow.dll
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/ref/controlflow.dll
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/controlflow.pdb
+/home/salmento/dev/C-/controlflow/obj/Debug/net5.0/controlflow.genruntimeconfig.cache

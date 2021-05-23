@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "controlflow/1.0.0": {
+        "runtime": {
+          "controlflow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "controlflow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
