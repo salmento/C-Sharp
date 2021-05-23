@@ -1,0 +1,16 @@
+/home/salmento/dev/C-/list/bin/Debug/net5.0/list
+/home/salmento/dev/C-/list/bin/Debug/net5.0/list.deps.json
+/home/salmento/dev/C-/list/bin/Debug/net5.0/list.runtimeconfig.json
+/home/salmento/dev/C-/list/bin/Debug/net5.0/list.runtimeconfig.dev.json
+/home/salmento/dev/C-/list/bin/Debug/net5.0/list.dll
+/home/salmento/dev/C-/list/bin/Debug/net5.0/ref/list.dll
+/home/salmento/dev/C-/list/bin/Debug/net5.0/list.pdb
+/home/salmento/dev/C-/list/obj/Debug/net5.0/list.csprojAssemblyReference.cache
+/home/salmento/dev/C-/list/obj/Debug/net5.0/list.GeneratedMSBuildEditorConfig.editorconfig
+/home/salmento/dev/C-/list/obj/Debug/net5.0/list.AssemblyInfoInputs.cache
+/home/salmento/dev/C-/list/obj/Debug/net5.0/list.AssemblyInfo.cs
+/home/salmento/dev/C-/list/obj/Debug/net5.0/list.csproj.CoreCompileInputs.cache
+/home/salmento/dev/C-/list/obj/Debug/net5.0/list.dll
+/home/salmento/dev/C-/list/obj/Debug/net5.0/ref/list.dll
+/home/salmento/dev/C-/list/obj/Debug/net5.0/list.pdb
+/home/salmento/dev/C-/list/obj/Debug/net5.0/list.genruntimeconfig.cache
