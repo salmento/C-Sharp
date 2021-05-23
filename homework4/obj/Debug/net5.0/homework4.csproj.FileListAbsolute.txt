@@ -1,0 +1,16 @@
+/home/salmento/dev/C-/homework4/bin/Debug/net5.0/homework4
+/home/salmento/dev/C-/homework4/bin/Debug/net5.0/homework4.deps.json
+/home/salmento/dev/C-/homework4/bin/Debug/net5.0/homework4.runtimeconfig.json
+/home/salmento/dev/C-/homework4/bin/Debug/net5.0/homework4.runtimeconfig.dev.json
+/home/salmento/dev/C-/homework4/bin/Debug/net5.0/homework4.dll
+/home/salmento/dev/C-/homework4/bin/Debug/net5.0/ref/homework4.dll
+/home/salmento/dev/C-/homework4/bin/Debug/net5.0/homework4.pdb
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/homework4.csprojAssemblyReference.cache
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/homework4.GeneratedMSBuildEditorConfig.editorconfig
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/homework4.AssemblyInfoInputs.cache
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/homework4.AssemblyInfo.cs
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/homework4.csproj.CoreCompileInputs.cache
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/homework4.dll
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/ref/homework4.dll
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/homework4.pdb
+/home/salmento/dev/C-/homework4/obj/Debug/net5.0/homework4.genruntimeconfig.cache
